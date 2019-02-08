@@ -2,6 +2,10 @@
 
 Included with the repo is a [demo video](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/demo.mp4), which you'll need to download to view. (Sorry for the inconvenience. I was feeling lazy and didn't want to have to upload the video to youtube just so I could embed it.)
 
+Here's a screenshot.
+
+![screenshot of processing sketch running](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/screenshot.png)
+
 ## What is it?
 
 It's a program written in [processing](https://processing.org/download/) that lets you do target practice at home, provided you've got a webcam for your computer and a laser cartridge for your firearm.
