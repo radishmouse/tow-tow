@@ -28,11 +28,11 @@ Also, you will see a count of how many hits you've made.
 
 Besides a computer running processing, I used this webcam:
 
-(logitech webcam image)
+![webcam](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/webcam.jpg)
 
 and this laser cartridge
 
-(laser cartridge image)
+![laser cartridge](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/cartridge.jpg)
 
 
 ## Are there keyboard controls?
