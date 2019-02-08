@@ -4,7 +4,7 @@ Included with the repo is a demo video, which you'll need to download to view. (
 
 ## What is it?
 
-It lets you do target practice at home, provided you've got a laser cartridge for your firearm.
+It's a program written in [processing](https://processing.org/download/) that lets you do target practice at home, provided you've got a webcam for your computer and a laser cartridge for your firearm.
 
 ## Did you say "firearm"?
 
@@ -14,7 +14,7 @@ Please be responsible.
 
 ## How does it work?
 
-You hook up a webcam to your computer, point the webcam at a surface that isn't red. (That part is important.) 
+You hook up a webcam to your computer, point the webcam at a surface that isn't red. (That part is important.) You might want to print out a [suitable target](http://officeformula.com/wp-content/uploads/2017/12/Printable-Zombie-Targets-8.5x11-e1514247852698.png) and tape it onto the surface.
 
 Start the processing sketch. You should hear a little song play when it is reading data from the camera.
 
@@ -26,7 +26,7 @@ Also, you will see a count of how many hits you've made.
 
 ## What do I need?
 
-Besides a computer running processing, I used this webcam:
+Besides a computer running [processing](https://processing.org/download/), I used this webcam:
 
 ![webcam](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/webcam.jpg)
 
@@ -39,7 +39,7 @@ and this laser cartridge
 
 Why yes!
 
-- Press the `space` bar to reset the count and the marks from previous hits.
+- Press the `space` bar to reset the count and the marks from previous hits. You'll hear the same little song play when you reset.
 - Press the `up` arrow to increase the pixel threshold by 5. This should reduce the number of false positives.
 - Press the `down` arrow to decrease the pixel threshold by 5. Do this if you're hitting the target, but it's not registering.
 
