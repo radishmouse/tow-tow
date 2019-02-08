@@ -1,6 +1,6 @@
 # tow tow! (that's "bang bang" in case you're wondering)
 
-Included with the repo is a demo video, which you'll need to download to view. (Sorry for the inconvenience. I was feeling lazy and didn't want to have to upload the video to youtube.)
+Included with the repo is a [demo video](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/demo.mp4), which you'll need to download to view. (Sorry for the inconvenience. I was feeling lazy and didn't want to have to upload the video to youtube just so I could embed it.)
 
 ## What is it?
 
