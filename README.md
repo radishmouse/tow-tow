@@ -20,13 +20,13 @@ Please be responsible.
 
 You hook up a webcam to your computer, point the webcam at a surface that isn't red. (That part is important.) You might want to print out a [suitable target](http://officeformula.com/wp-content/uploads/2017/12/Printable-Zombie-Targets-8.5x11-e1514247852698.png) and tape it onto the surface.
 
-Start the processing sketch. You should hear a little song play when it is reading data from the camera.
+Start the processing sketch. You should hear a little song play when it is able to read data from the camera.
 
 Then load up the laser cartridge, aim at the target, and move the trigger.
 
 If the laser light falls on the target, the processing sketch should detect the red color. It will make a "ding" sound and the sketch window should stay red in that spot.
 
-Also, you will see a count of how many hits you've made.
+Also, you will see in the console a running count of how many hits you've made.
 
 ## What do I need?
 
@@ -34,7 +34,7 @@ Besides a computer running [processing](https://processing.org/download/), I use
 
 ![webcam](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/webcam.jpg)
 
-and this laser cartridge
+and this laser cartridge:
 
 ![laser cartridge](https://raw.githubusercontent.com/radishmouse/tow_tow_practice/master/cartridge.jpg)
 
